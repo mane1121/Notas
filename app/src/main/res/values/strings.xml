@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Notas</string>
     <string name="NombreAplicacion">Notas</string>
+    <string name="edittext_ancho_completo">EditText ancho completo</string>
+    <string name="textview">TextView</string>
+    <string name="titulo">Titulo</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="regresar">Regresar</string>
 </resources>
